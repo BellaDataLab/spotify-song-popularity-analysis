@@ -62,8 +62,10 @@ To answer this, we combined data science with music industry context to assess h
 
 ---
 
-## 👩🏻‍💻 Author
+## 🧠 Author
 
 Prepared by: **Yi-Chieh (Bella) Kuo**  
-🎓 USC MSBA 2023  
-🌐 [LinkedIn](https://www.linkedin.com/in/yi-chieh-kuo/) | [GitHub](https://github.com/belladatalab)
+📍 Los Angeles, CA
+🎓 USC MSBA 2023
+📧 yichiehk@marshall.usc.edu 
+🔗 [LinkedIn](https://www.linkedin.com/in/yi-chieh-kuo/)
